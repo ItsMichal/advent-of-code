@@ -15,3 +15,7 @@ Solved in `dayone.ipynb`
 ## Day 2
 
 Solved in `daytwo.ipynb`
+
+## Day 3
+
+Solved in `daythree.ipynb`
