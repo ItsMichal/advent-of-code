@@ -14,4 +14,4 @@ Solved in `dayone.ipynb`
 
 ## Day 2
 
-TBD
+Solved in `daytwo.ipynb`
