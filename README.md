@@ -6,7 +6,7 @@ Definitely want to make a webapp, rust, assembly solution for at least a few of 
 
 Inputs in `/inputs`
 
-<details><summary><h2>Day 5</h2></summary>
+<details open><summary><h2>Day 5</h2></summary>
 <br>
 
 Attempted to speedcode. Did not go too well! Will try again on another day for better rankings.
