@@ -6,8 +6,7 @@ Definitely want to make a webapp, rust, assembly solution for at least a few of 
 
 Inputs in `/inputs`
 
-<details>
-<summary><h2>Day 5</h2><summary>
+<details><summary><h2>Day 5</h2></summary>
 <br>
 
 Attempted to speedcode. Did not go too well! Will try again on another day for better rankings.
@@ -21,11 +20,10 @@ Don't love my Part 2 time though... oh well!
 Day       Time    Rank  Score       Time    Rank  Score
   5   00:29:42    2986      0   02:16:27    5011      0
 ```
-
 </details>
 
 <details>
-<summary><h3>Day 4</h3><summary>
+<summary><h3>Day 4</h3></summary>
 <br>
 
 Solved in `dayfour.ipynb`. Python wears thin on the soul.
@@ -33,7 +31,7 @@ Solved in `dayfour.ipynb`. Python wears thin on the soul.
 </details>
 
 <details>
-<summary><h3>Day 3</h3><summary>
+<summary><h3>Day 3</h3></summary>
 <br>
 
 Solved in `daythree.ipynb`. 
@@ -41,7 +39,7 @@ Solved in `daythree.ipynb`.
 </details>
 
 <details>
-<summary><h3>Day 2</h3><summary>
+<summary><h3>Day 2</h3></summary>
 <br>
 
 Solved in `daytwo.ipynb`. 
@@ -49,7 +47,7 @@ Solved in `daytwo.ipynb`.
 </details>
 
 <details>
-<summary><h3>Day 1</h3><summary>
+<summary><h3>Day 1</h3></summary>
 <br>
 
 Solved in `dayone.ipynb`. 
