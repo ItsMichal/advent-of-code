@@ -19,3 +19,7 @@ Solved in `daytwo.ipynb`
 ## Day 3
 
 Solved in `daythree.ipynb`
+
+## Day 4
+
+Solved in `dayfour.ipynb`. Python wears thin on the soul.
